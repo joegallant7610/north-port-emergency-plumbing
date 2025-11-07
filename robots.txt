@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joegallant7610.github.io/north-port-emergency-plumbing/sitemap.xml
